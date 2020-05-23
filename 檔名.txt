@@ -1,5 +1,0 @@
-club-course
-mind-quiz
-random-select
-simple-rpg
-youtube-player
