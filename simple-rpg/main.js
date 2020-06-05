@@ -92,10 +92,10 @@ $(document).keydown(function(event){
             $("#talkBox").text("有山");
             break;
         case 2:
-            $("#talkBox").text("抵達終點");
+            $("#talkBox").text("沒路了");
             break;
         case 3:
-            $("#talkBox").text("哈摟");
+            $("#talkBox").text("野生皮卡丘出現了");
             break;
     }
 

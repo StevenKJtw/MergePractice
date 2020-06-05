@@ -1,13 +1,13 @@
 let playList=[
     //YOUTUBE影片id
-    "4iVW7OhZ0p8",
-    "MJnzEa0FSKk",
-    "7NN4RlKspW0"
+    "UH7YJGheDUU",
+    "iMyDrhNf2t0",
+    "9GOhUE-D9bg"
 
 ];
 
 let playTime=[
-    [57,60],
-    [79,83],
-    [76,80]
+    [12,15],
+    [8,15],
+    [17,25]
 ]
